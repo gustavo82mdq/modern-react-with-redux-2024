@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "a09b",
+      "name": "Shawna Konopelski"
+    }
+  ],
+  "albums": [
+    {
+      "id": "9d1e",
+      "userId": "1",
+      "title": "Handcrafted Metal Tuna"
+    }
+  ],
+  "photos": []
+}
